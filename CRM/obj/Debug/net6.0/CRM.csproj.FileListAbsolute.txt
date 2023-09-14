@@ -1,0 +1,14 @@
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\bin\Debug\net6.0\CRM.exe
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\bin\Debug\net6.0\CRM.deps.json
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\bin\Debug\net6.0\CRM.runtimeconfig.json
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\bin\Debug\net6.0\CRM.dll
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\bin\Debug\net6.0\CRM.pdb
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\obj\Debug\net6.0\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\obj\Debug\net6.0\CRM.AssemblyInfoInputs.cache
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\obj\Debug\net6.0\CRM.AssemblyInfo.cs
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\obj\Debug\net6.0\CRM.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\obj\Debug\net6.0\CRM.dll
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\obj\Debug\net6.0\refint\CRM.dll
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\obj\Debug\net6.0\CRM.pdb
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\obj\Debug\net6.0\CRM.genruntimeconfig.cache
+C:\Users\Valentin\OneDrive - Universidad Panamericana UPANA\UPANA\TAREAS UPANA\SEGUNDO SEMESTRE\INTRODUCCION A LA PROGRAMACION\PROYECTOS\C#\Plataforma CRM\CRM\obj\Debug\net6.0\ref\CRM.dll
